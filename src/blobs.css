@@ -1,0 +1,40 @@
+.blobs {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px 16px;
+}
+
+.blobs h2 {
+    color: #333333;
+    font-size: 28px;
+    margin: 0 0 22px;
+}
+
+.blobs-botones {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.blobs-botones button {
+    background-color: #d98ca5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 15px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.blobs-botones button:hover {
+    background-color: #c87592;
+}
+
+.blobs-mensaje {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #fff0f5;
+    border-radius: 5px;
+    color: #333333;
+}
